@@ -227,7 +227,7 @@ MIT License - See LICENSE file for details
 
 ## 👨‍💻 Author
 
-**Your Name** - 3rd Year BTech Student
+**Soumyajit Ghosh** - 3rd Year BTech Student
 - Exploring AI/ML and practical applications
 - [LinkedIn](#) | [GitHub](#) | [Portfolio](#)
 
