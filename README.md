@@ -63,7 +63,7 @@ An end-to-end invoice processing system that automatically extracts structured d
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/invoice-processor
+git clone https://github.com/GSoumyajit2005/invoice-processor
 cd invoice-processor
 ```
 
@@ -229,7 +229,7 @@ MIT License - See LICENSE file for details
 
 **Soumyajit Ghosh** - 3rd Year BTech Student
 - Exploring AI/ML and practical applications
-- [LinkedIn](#) | [GitHub](#) | [Portfolio](#)
+- [LinkedIn](https://www.linkedin.com/in/soumyajit-ghosh-49a5b02b2?utm_source=share&utm_campaign) | [GitHub](https://github.com/GSoumyajit2005) | [Portfolio](#)
 
 ---
 
