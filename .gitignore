@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Data files
+data/raw/*.jpg
+data/raw/*.png
+data/raw/*.pdf
+data/processed/
+
+# Ignore text and json files (outputs)
+data/processed/*.txt
+data/processed/*.json
+
+# Keep folder structure but ignore contents
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# But DO include these important files
+!requirements.txt
+!README.md
